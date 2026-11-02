@@ -10,7 +10,7 @@ https://hoahoc11gk1.netlify.app
 
 https://on-tap-ly-gk1-09s88s.netlify.app
 
-https://on-tap-lich-su-e50b92.netlify.app
+https://on-tap-lich-su-e50b92.netlify.app ( 22A) (11a1 22B) (D2 C) (tra mạng B)
 
 https://tienganh11a5-truongdz123.netlify.app
 
