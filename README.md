@@ -1,5 +1,7 @@
 # ontaphocki
 
+# ĐÁP ÁN SAI NÊN BÁO LẠI ĐỂ NOTE CHO MỌI NGƯỜI LÀM ( SAI K SỬA CHỈ NOTE ) 
+
 https://ontapsinh-92333.netlify.app/
 
 https://on-tap-tin-hoc-3234e4.netlify.app/
