@@ -1,6 +1,6 @@
 # ontaphocki
 
-# ĐÁP ÁN SAI NÊN BÁO LẠI ĐỂ NOTE CHO MỌI NGƯỜI LÀM ( SAI K SỬA CHỈ NOTE ) 
+# đáp án sai nên báo lại 
 
 https://ontapsinh-92333.netlify.app/
 
