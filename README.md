@@ -4,15 +4,11 @@
 
 https://ontapsinh-92333.netlify.app/
 
-https://on-tap-tin-hoc-3234e4.netlify.app/
-
 https://hoahoc11gk1.netlify.app
 
 https://on-tap-ly-gk1-09s88s.netlify.app
 
-https://on-tap-lich-su-e50b92.netlify.app ( 22A theo SGK) 
-
-https://tienganh11a5-truongdz123.netlify.app (câu4 bài đọc câu2:B) (câu10 sắp xếp câu c d b a e)
+https://tienganh11a5-truongdz123.netlify.app (câu4 bài đọc câu2:B) (câu11 sắp xếp câu c d b a e)
 
 https://ontapsinh2.netlify.app ( lỗi hình ảnh câu 4 đúng sai nhưng đáp án đúng hơn có lẽ vậy)
 
